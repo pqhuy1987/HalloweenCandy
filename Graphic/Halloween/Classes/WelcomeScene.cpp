@@ -30,7 +30,7 @@ bool WelcomeScene::init()
     welcomePic->setScaleY(visibleSize.height/welcomePic->getContentSize().height);
     this->addChild(welcomePic);
     
-    auto gameTitleLabel= Label::createWithTTF("Halloween\n  Candy Rush", "FEASFBRG.TTF", visibleSize.width * SCORE_FONT);
+    auto gameTitleLabel= Label::createWithTTF("Halloween\n  Noah", "FEASFBRG.TTF", visibleSize.width * SCORE_FONT);
     gameTitleLabel->setColor(Color3B::YELLOW);
     gameTitleLabel->setPosition(Point(visibleSize.width/2+origin.x, visibleSize.height*0.75+origin.y));
     this->addChild(gameTitleLabel,10);

@@ -56,7 +56,7 @@ void GuideScene::Guide_move()
 {
     Size visibleSize = Director::getInstance()->getVisibleSize();
     Vec2 origin = Director::getInstance()->getVisibleOrigin();
-    auto gameTitleLabel= Label::createWithTTF("    Halloween\n   Candy Rush\n\n(C) 2014 Noctiz", "Lucky7.otf", visibleSize.width * SCORE_FONT * 0.5);
+    auto gameTitleLabel= Label::createWithTTF("    Halloween\n   Noah\n\n(C) 2017 Twoking", "Lucky7.otf", visibleSize.width * SCORE_FONT * 0.5);
     gameTitleLabel->setColor(Color3B::WHITE);
     gameTitleLabel->setPosition(Point((visibleSize.width / 2) + origin.x, visibleSize.height * 0.55 + origin.y));
     this->addChild(gameTitleLabel,10);

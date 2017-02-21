@@ -25,24 +25,9 @@
 		5087E76917EB910900C73F5D /* OpenAL.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D44C620B132DFF330009C878 /* OpenAL.framework */; };
 		5087E76A17EB910900C73F5D /* AVFoundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D44C620D132DFF430009C878 /* AVFoundation.framework */; };
 		5087E76B17EB910900C73F5D /* AudioToolbox.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D44C620F132DFF4E0009C878 /* AudioToolbox.framework */; };
-		5087E77D17EB970100C73F5D /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 5087E77217EB970100C73F5D /* Default-568h@2x.png */; };
-		5087E77E17EB970100C73F5D /* Default.png in Resources */ = {isa = PBXBuildFile; fileRef = 5087E77317EB970100C73F5D /* Default.png */; };
-		5087E77F17EB970100C73F5D /* Default@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 5087E77417EB970100C73F5D /* Default@2x.png */; };
-		5087E78017EB970100C73F5D /* Icon-114.png in Resources */ = {isa = PBXBuildFile; fileRef = 5087E77517EB970100C73F5D /* Icon-114.png */; };
-		5087E78117EB970100C73F5D /* Icon-120.png in Resources */ = {isa = PBXBuildFile; fileRef = 5087E77617EB970100C73F5D /* Icon-120.png */; };
-		5087E78217EB970100C73F5D /* Icon-144.png in Resources */ = {isa = PBXBuildFile; fileRef = 5087E77717EB970100C73F5D /* Icon-144.png */; };
-		5087E78317EB970100C73F5D /* Icon-152.png in Resources */ = {isa = PBXBuildFile; fileRef = 5087E77817EB970100C73F5D /* Icon-152.png */; };
-		5087E78417EB970100C73F5D /* Icon-57.png in Resources */ = {isa = PBXBuildFile; fileRef = 5087E77917EB970100C73F5D /* Icon-57.png */; };
-		5087E78517EB970100C73F5D /* Icon-72.png in Resources */ = {isa = PBXBuildFile; fileRef = 5087E77A17EB970100C73F5D /* Icon-72.png */; };
-		5087E78617EB970100C73F5D /* Icon-76.png in Resources */ = {isa = PBXBuildFile; fileRef = 5087E77B17EB970100C73F5D /* Icon-76.png */; };
 		5087E78917EB974C00C73F5D /* AppKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5087E78817EB974C00C73F5D /* AppKit.framework */; };
 		5087E78B17EB975400C73F5D /* OpenGL.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5087E78A17EB975400C73F5D /* OpenGL.framework */; };
-		50EF629617ECD46A001EB2F8 /* Icon-40.png in Resources */ = {isa = PBXBuildFile; fileRef = 50EF629217ECD46A001EB2F8 /* Icon-40.png */; };
-		50EF629717ECD46A001EB2F8 /* Icon-58.png in Resources */ = {isa = PBXBuildFile; fileRef = 50EF629317ECD46A001EB2F8 /* Icon-58.png */; };
-		50EF629817ECD46A001EB2F8 /* Icon-80.png in Resources */ = {isa = PBXBuildFile; fileRef = 50EF629417ECD46A001EB2F8 /* Icon-80.png */; };
-		50EF629917ECD46A001EB2F8 /* Icon-100.png in Resources */ = {isa = PBXBuildFile; fileRef = 50EF629517ECD46A001EB2F8 /* Icon-100.png */; };
-		50EF62A217ECD613001EB2F8 /* Icon-29.png in Resources */ = {isa = PBXBuildFile; fileRef = 50EF62A017ECD613001EB2F8 /* Icon-29.png */; };
-		50EF62A317ECD613001EB2F8 /* Icon-50.png in Resources */ = {isa = PBXBuildFile; fileRef = 50EF62A117ECD613001EB2F8 /* Icon-50.png */; };
+		97DD10821E5C91B000DFBDB4 /* Media.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 97DD10811E5C91B000DFBDB4 /* Media.xcassets */; };
 		BF171245129291EC00B8313A /* OpenGLES.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BF170DB012928DE900B8313A /* OpenGLES.framework */; };
 		BF1712471292920000B8313A /* libz.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = BF170DB412928DE900B8313A /* libz.dylib */; };
 		BF1C47F01293687400B63C5D /* QuartzCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BF1C47EA1293683800B63C5D /* QuartzCore.framework */; };
@@ -275,10 +260,6 @@
 		FF6FDD9619FE0D9800DE8353 /* libAdapterIAd.a in Frameworks */ = {isa = PBXBuildFile; fileRef = FF6FDD9319FE0D9800DE8353 /* libAdapterIAd.a */; };
 		FF6FDD9719FE0D9800DE8353 /* libGoogleAdMobAds.a in Frameworks */ = {isa = PBXBuildFile; fileRef = FF6FDD9419FE0D9800DE8353 /* libGoogleAdMobAds.a */; };
 		FF6FDD9819FE0D9800DE8353 /* libGoogleAdMobAds.a in Frameworks */ = {isa = PBXBuildFile; fileRef = FF6FDD9419FE0D9800DE8353 /* libGoogleAdMobAds.a */; };
-		FF6FDD9E19FE261100DE8353 /* Icon.png in Resources */ = {isa = PBXBuildFile; fileRef = FF6FDD9C19FE261100DE8353 /* Icon.png */; };
-		FF6FDD9F19FE261100DE8353 /* Icon.png in Resources */ = {isa = PBXBuildFile; fileRef = FF6FDD9C19FE261100DE8353 /* Icon.png */; };
-		FF6FDDA019FE261100DE8353 /* Icon@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = FF6FDD9D19FE261100DE8353 /* Icon@2x.png */; };
-		FF6FDDA119FE261100DE8353 /* Icon@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = FF6FDD9D19FE261100DE8353 /* Icon@2x.png */; };
 		FF939E4D19FD95DD002AA39F /* Rocket (1).png in Resources */ = {isa = PBXBuildFile; fileRef = FF939E4919FD95DD002AA39F /* Rocket (1).png */; };
 		FF939E4E19FD95DD002AA39F /* Rocket (1).png in Resources */ = {isa = PBXBuildFile; fileRef = FF939E4919FD95DD002AA39F /* Rocket (1).png */; };
 		FF939E4F19FD95DD002AA39F /* Rocket (2).png in Resources */ = {isa = PBXBuildFile; fileRef = FF939E4A19FD95DD002AA39F /* Rocket (2).png */; };
@@ -407,25 +388,10 @@
 		503AE11117EB99EE00D1A890 /* libcurl.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libcurl.dylib; path = usr/lib/libcurl.dylib; sourceTree = SDKROOT; };
 		503AE11A17EB9C5A00D1A890 /* IOKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = IOKit.framework; path = System/Library/Frameworks/IOKit.framework; sourceTree = SDKROOT; };
 		5087E76F17EB910900C73F5D /* Halloween Mac.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Halloween Mac.app"; sourceTree = BUILT_PRODUCTS_DIR; };
-		5087E77217EB970100C73F5D /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-568h@2x.png"; sourceTree = "<group>"; };
-		5087E77317EB970100C73F5D /* Default.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Default.png; sourceTree = "<group>"; };
-		5087E77417EB970100C73F5D /* Default@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default@2x.png"; sourceTree = "<group>"; };
-		5087E77517EB970100C73F5D /* Icon-114.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-114.png"; sourceTree = "<group>"; };
-		5087E77617EB970100C73F5D /* Icon-120.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-120.png"; sourceTree = "<group>"; };
-		5087E77717EB970100C73F5D /* Icon-144.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-144.png"; sourceTree = "<group>"; };
-		5087E77817EB970100C73F5D /* Icon-152.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-152.png"; sourceTree = "<group>"; };
-		5087E77917EB970100C73F5D /* Icon-57.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-57.png"; sourceTree = "<group>"; };
-		5087E77A17EB970100C73F5D /* Icon-72.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-72.png"; sourceTree = "<group>"; };
-		5087E77B17EB970100C73F5D /* Icon-76.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-76.png"; sourceTree = "<group>"; };
 		5087E77C17EB970100C73F5D /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		5087E78817EB974C00C73F5D /* AppKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AppKit.framework; path = System/Library/Frameworks/AppKit.framework; sourceTree = SDKROOT; };
 		5087E78A17EB975400C73F5D /* OpenGL.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = OpenGL.framework; path = System/Library/Frameworks/OpenGL.framework; sourceTree = SDKROOT; };
-		50EF629217ECD46A001EB2F8 /* Icon-40.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-40.png"; sourceTree = "<group>"; };
-		50EF629317ECD46A001EB2F8 /* Icon-58.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-58.png"; sourceTree = "<group>"; };
-		50EF629417ECD46A001EB2F8 /* Icon-80.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-80.png"; sourceTree = "<group>"; };
-		50EF629517ECD46A001EB2F8 /* Icon-100.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-100.png"; sourceTree = "<group>"; };
-		50EF62A017ECD613001EB2F8 /* Icon-29.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-29.png"; sourceTree = "<group>"; };
-		50EF62A117ECD613001EB2F8 /* Icon-50.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-50.png"; sourceTree = "<group>"; };
+		97DD10811E5C91B000DFBDB4 /* Media.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Media.xcassets; sourceTree = "<group>"; };
 		BF170DB012928DE900B8313A /* OpenGLES.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = OpenGLES.framework; path = System/Library/Frameworks/OpenGLES.framework; sourceTree = SDKROOT; };
 		BF170DB412928DE900B8313A /* libz.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libz.dylib; path = usr/lib/libz.dylib; sourceTree = SDKROOT; };
 		BF1C47EA1293683800B63C5D /* QuartzCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = QuartzCore.framework; path = System/Library/Frameworks/QuartzCore.framework; sourceTree = SDKROOT; };
@@ -594,8 +560,6 @@
 		FF6FDD9219FE0D9800DE8353 /* GADRequestError.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GADRequestError.h; sourceTree = SOURCE_ROOT; };
 		FF6FDD9319FE0D9800DE8353 /* libAdapterIAd.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; path = libAdapterIAd.a; sourceTree = SOURCE_ROOT; };
 		FF6FDD9419FE0D9800DE8353 /* libGoogleAdMobAds.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; path = libGoogleAdMobAds.a; sourceTree = SOURCE_ROOT; };
-		FF6FDD9C19FE261100DE8353 /* Icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Icon.png; sourceTree = "<group>"; };
-		FF6FDD9D19FE261100DE8353 /* Icon@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon@2x.png"; sourceTree = "<group>"; };
 		FF939E4919FD95DD002AA39F /* Rocket (1).png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Rocket (1).png"; sourceTree = "<group>"; };
 		FF939E4A19FD95DD002AA39F /* Rocket (2).png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Rocket (2).png"; sourceTree = "<group>"; };
 		FF939E4B19FD95DD002AA39F /* Rocket (3).png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Rocket (3).png"; sourceTree = "<group>"; };
@@ -750,6 +714,7 @@
 		29B97314FDCFA39411CA2CEA /* CustomTemplate */ = {
 			isa = PBXGroup;
 			children = (
+				97DD10811E5C91B000DFBDB4 /* Media.xcassets */,
 				FF551C721A049A4400CF4C21 /* Classes */,
 				FF6FDD5619FE082700DE8353 /* GADAdMobExtras.h */,
 				FF6FDD5719FE082700DE8353 /* GADAdNetworkExtras.h */,
@@ -964,24 +929,6 @@
 		5087E77117EB970100C73F5D /* Icons */ = {
 			isa = PBXGroup;
 			children = (
-				FF6FDD9C19FE261100DE8353 /* Icon.png */,
-				FF6FDD9D19FE261100DE8353 /* Icon@2x.png */,
-				5087E77217EB970100C73F5D /* Default-568h@2x.png */,
-				5087E77317EB970100C73F5D /* Default.png */,
-				5087E77417EB970100C73F5D /* Default@2x.png */,
-				50EF62A017ECD613001EB2F8 /* Icon-29.png */,
-				50EF62A117ECD613001EB2F8 /* Icon-50.png */,
-				50EF629217ECD46A001EB2F8 /* Icon-40.png */,
-				50EF629317ECD46A001EB2F8 /* Icon-58.png */,
-				50EF629417ECD46A001EB2F8 /* Icon-80.png */,
-				50EF629517ECD46A001EB2F8 /* Icon-100.png */,
-				5087E77517EB970100C73F5D /* Icon-114.png */,
-				5087E77617EB970100C73F5D /* Icon-120.png */,
-				5087E77717EB970100C73F5D /* Icon-144.png */,
-				5087E77817EB970100C73F5D /* Icon-152.png */,
-				5087E77917EB970100C73F5D /* Icon-57.png */,
-				5087E77A17EB970100C73F5D /* Icon-72.png */,
-				5087E77B17EB970100C73F5D /* Icon-76.png */,
 				5087E77C17EB970100C73F5D /* Info.plist */,
 			);
 			name = Icons;
@@ -1074,7 +1021,8 @@
 				LastUpgradeCheck = 0500;
 				TargetAttributes = {
 					1D6058900D05DD3D006BFB54 = {
-						DevelopmentTeam = 9U8SJP9XUE;
+						DevelopmentTeam = VC346ZAH77;
+						ProvisioningStyle = Automatic;
 					};
 				};
 			};
@@ -1138,12 +1086,9 @@
 				FF6FDCCB19FDC26A00DE8353 /* Idle (1).png in Resources */,
 				FFF5583319FD562F00CD90FC /* Smoke (1).png in Resources */,
 				FF6FDCD319FDC26A00DE8353 /* Launch Idle (1) 2.png in Resources */,
-				FF6FDD9E19FE261100DE8353 /* Icon.png in Resources */,
 				FF6FDCD919FDC26A00DE8353 /* Launch Idle (2) 2.png in Resources */,
-				5087E78117EB970100C73F5D /* Icon-120.png in Resources */,
 				FF6FDD0719FDD33A00DE8353 /* Dead (8).png in Resources */,
 				FFD57D6719FCEF6C00E1A14A /* Launch (9).png in Resources */,
-				5087E78617EB970100C73F5D /* Icon-76.png in Resources */,
 				FFD57D4C19FCEB9300E1A14A /* Blank.png in Resources */,
 				FF6FDCEF19FDCB3F00DE8353 /* Candy (3) 2.png in Resources */,
 				FF6FDCFF19FDD33A00DE8353 /* Dead (4).png in Resources */,
@@ -1156,9 +1101,7 @@
 				FFF5583519FD562F00CD90FC /* Smoke (2).png in Resources */,
 				FF45D1EB19FC66EA009BCB75 /* Lean Right (2).png in Resources */,
 				FF6FDD1619FDD60700DE8353 /* Collect (3).png in Resources */,
-				5087E77F17EB970100C73F5D /* Default@2x.png in Resources */,
 				FF45D1DC19FC665E009BCB75 /* Lean Left (2).png in Resources */,
-				50EF629917ECD46A001EB2F8 /* Icon-100.png in Resources */,
 				FF6FDCDB19FDC26A00DE8353 /* Launch Idle (2) 3.png in Resources */,
 				FFF5583B19FD562F00CD90FC /* Smoke (5).png in Resources */,
 				FF6FDCB919FDB19A00DE8353 /* score-bar.png in Resources */,
@@ -1178,14 +1121,12 @@
 				FF6FDD3B19FDE25A00DE8353 /* highscore.mp3 in Resources */,
 				FF6FDD3919FDE25A00DE8353 /* gameover.mp3 in Resources */,
 				FF6FDD5419FDEF0500DE8353 /* credits2.png in Resources */,
-				FF6FDDA019FE261100DE8353 /* Icon@2x.png in Resources */,
 				FF45D1DE19FC665E009BCB75 /* Lean Left (3).png in Resources */,
 				FF45D1B019FC57D8009BCB75 /* Marker Felt.ttf in Resources */,
 				FFD57D3C19FCD58E00E1A14A /* Spike.png in Resources */,
 				FF939E5119FD95DD002AA39F /* Rocket (3).png in Resources */,
 				FF6FDCFD19FDD33A00DE8353 /* Dead (3).png in Resources */,
 				FF45D20319FC6CBB009BCB75 /* Candy (3).png in Resources */,
-				5087E78317EB970100C73F5D /* Icon-152.png in Resources */,
 				FF6FDD0519FDD33A00DE8353 /* Dead (7).png in Resources */,
 				FFD57D5719FCEF6C00E1A14A /* Launch (1).png in Resources */,
 				FF6FDD0319FDD33A00DE8353 /* Dead (6).png in Resources */,
@@ -1195,15 +1136,12 @@
 				FF6FDD2419FDE10800DE8353 /* main.mp3 in Resources */,
 				FF45D1AC19FC57D8009BCB75 /* FEASFBI_.TTF in Resources */,
 				FF45D1AA19FC57D8009BCB75 /* BG.png in Resources */,
-				5087E77D17EB970100C73F5D /* Default-568h@2x.png in Resources */,
 				FF6FDD1C19FDD60700DE8353 /* Collect (6).png in Resources */,
 				FF45D1B219FC57D8009BCB75 /* Starter_welcome_pic.png in Resources */,
 				FF939E6C19FD9F3B002AA39F /* Launch.png in Resources */,
 				FF45D1F519FC6792009BCB75 /* Play (1).png in Resources */,
 				FFB936DA19FCB96500976C84 /* BG2.png in Resources */,
-				5087E78517EB970100C73F5D /* Icon-72.png in Resources */,
 				FF45D20C19FC6F28009BCB75 /* Lucky7.otf in Resources */,
-				50EF62A317ECD613001EB2F8 /* Icon-50.png in Resources */,
 				FF6FDCE519FDC26A00DE8353 /* Launch Idle (4) 2.png in Resources */,
 				FFD57D5919FCEF6C00E1A14A /* Launch (2).png in Resources */,
 				FF45D21619FC736A009BCB75 /* Bat (1).png in Resources */,
@@ -1211,24 +1149,22 @@
 				FF6FDD4119FDE25A00DE8353 /* shield.mp3 in Resources */,
 				FF6FDCF919FDD33A00DE8353 /* Dead (1).png in Resources */,
 				FF45D1FF19FC6CBB009BCB75 /* Candy (1).png in Resources */,
-				5087E78017EB970100C73F5D /* Icon-114.png in Resources */,
 				FF939E6319FD98F2002AA39F /* Exit (2).png in Resources */,
 				FFB936DE19FCB96500976C84 /* BG4.png in Resources */,
 				FF6FDD4719FDE4F000DE8353 /* explosion.mp3 in Resources */,
 				FF45D21C19FC736A009BCB75 /* Bat (4).png in Resources */,
 				FF6FDD1819FDD60700DE8353 /* Collect (4).png in Resources */,
 				FF45D1CD19FC63C1009BCB75 /* Jump (1).png in Resources */,
+				97DD10821E5C91B000DFBDB4 /* Media.xcassets in Resources */,
 				FF6FDCDD19FDC26A00DE8353 /* Launch Idle (2).png in Resources */,
 				FF6FDCE919FDC26A00DE8353 /* Launch Idle (4).png in Resources */,
 				FFD57D6119FCEF6C00E1A14A /* Launch (6).png in Resources */,
 				FF45D1AE19FC57D8009BCB75 /* FEASFBRG.TTF in Resources */,
 				FF45D1F119FC66EA009BCB75 /* Lean Right (5).png in Resources */,
-				50EF62A217ECD613001EB2F8 /* Icon-29.png in Resources */,
 				FF939E6919FD98F2002AA39F /* Title.png in Resources */,
 				FF6FDD2019FDD60700DE8353 /* Collect (8).png in Resources */,
 				FF6FDCD519FDC26A00DE8353 /* Launch Idle (1) 3.png in Resources */,
 				FF45D1F719FC6792009BCB75 /* Play (2).png in Resources */,
-				50EF629617ECD46A001EB2F8 /* Icon-40.png in Resources */,
 				FFB936E219FCB96500976C84 /* Cloud.png in Resources */,
 				FF45D1E019FC665E009BCB75 /* Lean Left (4).png in Resources */,
 				FFB936DC19FCB96500976C84 /* BG3.png in Resources */,
@@ -1249,14 +1185,10 @@
 				FF6FDD1219FDD60700DE8353 /* Collect (1).png in Resources */,
 				FF6FDD3319FDE25A00DE8353 /* candy0.wav in Resources */,
 				FF45D20119FC6CBB009BCB75 /* Candy (2).png in Resources */,
-				5087E78217EB970100C73F5D /* Icon-144.png in Resources */,
 				FFF5583F19FD562F00CD90FC /* Smoke (7).png in Resources */,
-				50EF629817ECD46A001EB2F8 /* Icon-80.png in Resources */,
 				FF6FDD0119FDD33A00DE8353 /* Dead (5).png in Resources */,
 				FF939E4D19FD95DD002AA39F /* Rocket (1).png in Resources */,
-				5087E78417EB970100C73F5D /* Icon-57.png in Resources */,
 				FF45D1D319FC63C1009BCB75 /* Jump (4).png in Resources */,
-				5087E77E17EB970100C73F5D /* Default.png in Resources */,
 				FF939E6719FD98F2002AA39F /* Replay (2).png in Resources */,
 				FF6FDD3719FDE25A00DE8353 /* candy2.mp3 in Resources */,
 				FF6FDCCF19FDC26A00DE8353 /* Idle (3).png in Resources */,
@@ -1265,7 +1197,6 @@
 				FF45D1BB19FC5F78009BCB75 /* BG_cropped.png in Resources */,
 				FF6FDD1E19FDD60700DE8353 /* Collect (7).png in Resources */,
 				FF45D1E919FC66EA009BCB75 /* Lean Right (1).png in Resources */,
-				50EF629717ECD46A001EB2F8 /* Icon-58.png in Resources */,
 				FF45D1DA19FC665E009BCB75 /* Lean Left (1).png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -1311,7 +1242,6 @@
 				FF45D21B19FC736A009BCB75 /* Bat (3).png in Resources */,
 				FF6FDD5519FDEF0500DE8353 /* credits2.png in Resources */,
 				FFF5584219FD562F00CD90FC /* Smoke (8).png in Resources */,
-				FF6FDDA119FE261100DE8353 /* Icon@2x.png in Resources */,
 				FF45D1E319FC665E009BCB75 /* Lean Left (5).png in Resources */,
 				FF6FDCD219FDC26A00DE8353 /* Idle (4).png in Resources */,
 				FF6FDD0219FDD33A00DE8353 /* Dead (5).png in Resources */,
@@ -1377,7 +1307,6 @@
 				FF45D1EE19FC66EA009BCB75 /* Lean Right (3).png in Resources */,
 				FF6FDCE219FDC26A00DE8353 /* Launch Idle (3) 3.png in Resources */,
 				FF45D21919FC736A009BCB75 /* Bat (2).png in Resources */,
-				FF6FDD9F19FE261100DE8353 /* Icon.png in Resources */,
 				FFF5583C19FD562F00CD90FC /* Smoke (5).png in Resources */,
 				FFB936D919FCB96500976C84 /* BG1.png in Resources */,
 				FFB936DD19FCB96500976C84 /* BG3.png in Resources */,
@@ -1478,9 +1407,14 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = YES;
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=*]" = "iPhone Distribution: yuning jin (9U8SJP9XUE)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				COMPRESS_PNG_FILES = NO;
+				DEVELOPMENT_TEAM = VC346ZAH77;
+				ENABLE_BITCODE = NO;
 				GCC_DYNAMIC_NO_PIC = NO;
 				GCC_INLINES_ARE_PRIVATE_EXTERN = NO;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
@@ -1498,15 +1432,17 @@
 					"$(SRCROOT)/../cocos2d/cocos/platform/ios/Simulation",
 				);
 				INFOPLIST_FILE = ios/Info.plist;
-				IPHONEOS_DEPLOYMENT_TARGET = 6.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LIBRARY_SEARCH_PATHS = (
 					"/Users/Noctiz/Downloads/GoogleMobileAdsSdkiOS-6.12.0",
 					"$(PROJECT_DIR)",
 				);
 				OTHER_LDFLAGS = "-ObjC";
 				"OTHER_LDFLAGS[arch=*]" = "-ObjC";
-				PROVISIONING_PROFILE = "efb433a8-7759-4717-8479-db11811d6343";
+				PRODUCT_BUNDLE_IDENTIFIER = com.graphic.halloween.100;
+				PROVISIONING_PROFILE = "";
 				"PROVISIONING_PROFILE[sdk=*]" = "efb433a8-7759-4717-8479-db11811d6343";
+				PROVISIONING_PROFILE_SPECIFIER = "";
 				SDKROOT = iphoneos;
 				STRIP_PNG_TEXT = NO;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -1518,9 +1454,14 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = YES;
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=*]" = "iPhone Distribution: yuning jin (9U8SJP9XUE)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				COMPRESS_PNG_FILES = NO;
+				DEVELOPMENT_TEAM = VC346ZAH77;
+				ENABLE_BITCODE = NO;
 				GCC_INLINES_ARE_PRIVATE_EXTERN = NO;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = ios/Prefix.pch;
@@ -1536,14 +1477,15 @@
 					"$(SRCROOT)/../cocos2d/cocos/platform/ios/Simulation",
 				);
 				INFOPLIST_FILE = ios/Info.plist;
-				IPHONEOS_DEPLOYMENT_TARGET = 6.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LIBRARY_SEARCH_PATHS = (
 					"/Users/Noctiz/Downloads/GoogleMobileAdsSdkiOS-6.12.0",
 					"$(PROJECT_DIR)",
 				);
 				OTHER_LDFLAGS = "-ObjC";
 				"OTHER_LDFLAGS[arch=*]" = "-ObjC";
-				PROVISIONING_PROFILE = "efb433a8-7759-4717-8479-db11811d6343";
+				PRODUCT_BUNDLE_IDENTIFIER = com.graphic.halloween.100;
+				PROVISIONING_PROFILE = "";
 				SDKROOT = iphoneos;
 				STRIP_PNG_TEXT = NO;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -1714,9 +1656,14 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = YES;
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=*]" = "iPhone Distribution: yuning jin (9U8SJP9XUE)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				COMPRESS_PNG_FILES = NO;
+				DEVELOPMENT_TEAM = VC346ZAH77;
+				ENABLE_BITCODE = NO;
 				GCC_INLINES_ARE_PRIVATE_EXTERN = NO;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = ios/Prefix.pch;
@@ -1732,14 +1679,15 @@
 					"$(SRCROOT)/../cocos2d/cocos/platform/ios/Simulation",
 				);
 				INFOPLIST_FILE = ios/Info.plist;
-				IPHONEOS_DEPLOYMENT_TARGET = 6.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LIBRARY_SEARCH_PATHS = (
 					"/Users/Noctiz/Downloads/GoogleMobileAdsSdkiOS-6.12.0",
 					"$(PROJECT_DIR)",
 				);
 				OTHER_LDFLAGS = "-ObjC";
 				"OTHER_LDFLAGS[arch=*]" = "-ObjC";
-				PROVISIONING_PROFILE = "efb433a8-7759-4717-8479-db11811d6343";
+				PRODUCT_BUNDLE_IDENTIFIER = com.graphic.halloween.100;
+				PROVISIONING_PROFILE = "";
 				SDKROOT = iphoneos;
 				STRIP_PNG_TEXT = NO;
 				TARGETED_DEVICE_FAMILY = "1,2";
